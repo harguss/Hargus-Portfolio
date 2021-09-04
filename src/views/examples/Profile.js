@@ -38,7 +38,7 @@ class Profile extends React.Component {
         <main className="profile-page" ref="main">
           <section className="section-profile-cover section-shaped my-0">
             {/* Circles background */}
-            <div className="shape shape-style-1 shape-default alpha-4">
+            {/* <div className="shape shape-style-1 shape-default alpha-4">
               <span />
               <span />
               <span />
@@ -46,7 +46,7 @@ class Profile extends React.Component {
               <span />
               <span />
               <span />
-            </div>
+            </div> */}
             {/* SVG separator */}
             <div className="separator separator-bottom separator-skew">
               <svg
@@ -124,20 +124,20 @@ class Profile extends React.Component {
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Jessica Jones{" "}
-                      <span className="font-weight-light">, 27</span>
+                      susan hargus{" "}
+                      <span className="font-weight-light"></span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                      Bucharest, Romania
+                      IOWA, USA
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
+                      Software Developer 
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                      University of IOWA
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">

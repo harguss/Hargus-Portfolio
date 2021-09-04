@@ -137,18 +137,19 @@ class Profile extends React.Component {
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of IOWA
+                      University of IOWA BFA
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                          As a trained artist in Classical Realism, Susan sees a 
+                          direct coralation in problem solving in coding
+                          as in painting.They both require abstract and detailed
+                          analysis, standing back and looking at the whole, and up
+                          close inspection of detail.
+                         
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more

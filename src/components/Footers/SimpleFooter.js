@@ -48,7 +48,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle"
                   color="twitter"
-                  href="https://twitter.com/shargus"
+                  href="https://twitter.com/susanhargus"
                   id="tooltip475038074"
                   target="_blank"
                 >
@@ -90,7 +90,7 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="github"
-                  href="https://github.com/creativetimofficial"
+                  href="https://github.com/harguss"
                   id="tooltip495507257"
                   target="_blank"
                 >
@@ -109,7 +109,7 @@ class SimpleFooter extends React.Component {
                 <div className=" copyright">
                   © {new Date().getFullYear()}{" "}
                   <a
-                    href="https://www.creative-tim.com?ref=adsr-footer"
+                    href="https://www.linkedin.com/in/hargus-susan/"
                     target="_blank"
                   >
                     s.hargus
@@ -121,7 +121,7 @@ class SimpleFooter extends React.Component {
                 <Nav className=" nav-footer justify-content-end">
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com?ref=adsr-footer"
+                      href="https://www.linkedin.com/in/hargus-susan/"
                       target="_blank"
                     >
                       s.hargus
@@ -129,7 +129,7 @@ class SimpleFooter extends React.Component {
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="https://www.creative-tim.com/presentation?ref=adsr-footer"
+                      href="https://www.shargus.com/contact"
                       target="_blank"
                     >
                       email
@@ -137,7 +137,7 @@ class SimpleFooter extends React.Component {
                   </NavItem>
                   <NavItem>
                     <NavLink
-                      href="shargus@mac.com"
+                      href="https://www.shargus.com/contact"
                       target="_blank"
                     >
                       Blog
